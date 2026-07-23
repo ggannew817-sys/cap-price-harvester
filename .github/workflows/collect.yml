@@ -1,0 +1,33 @@
+name: Carbon Price Harvester
+on:
+  schedule:
+    - cron: "0 8 * * 1-5"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: 배출권 시세 수집
+        env:
+          PUBLIC_DATA_KEY: ${{ secrets.PUBLIC_DATA_KEY }}
+        run: python fetch_prices.py
+      - name: 아티팩트 업로드
+        uses: actions/upload-artifact@v4
+        with:
+          name: prices_daily
+          path: prices_daily.json
+      - name: 레포에 커밋
+        run: |
+          git config user.name "cap-price-bot"
+          git config user.email "cap-price-bot@users.noreply.github.com"
+          git add prices_daily.json
+          git commit -m "chore: 시세 자동수집" || echo "변경 없음"
+          git push || echo "변경 없음"
+
