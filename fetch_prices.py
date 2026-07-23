@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""배출권(KAU·KCU·KOC) 일별 시세 — 금융위 일반상품시세정보/배출권시세."""
+"""배출권(KAU·KCU·KOC) 일별 시세 + 종목 진단."""
 import os, json, datetime, re
 import requests
 
@@ -9,7 +9,7 @@ URL = ("https://apis.data.go.kr/1160100/service/GetGeneralProductInfoService"
        "/getCertifiedEmissionReductionPriceInfo")
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "prices_daily.json")
-MK = ("KAU", "KCU", "KOC")   # 할당·상쇄·외부사업
+MK = ("KAU", "KCU", "KOC")
 
 
 def fetch():
@@ -38,7 +38,15 @@ def main():
         print("!! PUBLIC_DATA_KEY 없음"); return
     items = fetch()
     print("총 item:", len(items))
-    best = {mk: {} for mk in MK}   # mk -> {date:(vintage,close)}
+    # 진단: 어떤 종목명이 들어오는지
+    names = {}
+    for it in items:
+        nm = str(it.get("itmsNm") or "").upper()
+        pre = nm[:3]
+        names[pre] = names.get(pre, 0) + 1
+    print("종목 접두어별 개수:", names)
+
+    best = {mk: {} for mk in MK}
     for it in items:
         nm = str(it.get("itmsNm") or "").upper()
         d = str(it.get("basDt") or ""); clpr = it.get("clpr")
@@ -53,12 +61,11 @@ def main():
                     best[mk][iso] = (vint, v)
                 break
     series = {mk: {d: v for d, (vt, v) in best[mk].items()} for mk in MK if best[mk]}
-    for mk in series:
-        print(f"{mk}: {len(series[mk])}일")
+    for mk in MK:
+        print(f"{mk}: {len(best[mk])}일")
     data = {"단위": {"KAU": "원/톤", "KCU": "원/톤", "KOC": "원/톤", "EUA": "€/톤"},
             "주기": "daily", "series": series, "보간": False,
-            "_수집": {"실행": datetime.date.today().isoformat(),
-                    "건수": {mk: len(series.get(mk, {})) for mk in MK}}}
+            "_수집": {"실행": datetime.date.today().isoformat()}}
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
     print("수집 완료 → prices_daily.json")
