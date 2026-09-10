@@ -11,7 +11,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=tUVvSPtnmprYQL0sMh3owZco6fTeHSbdU-D1zspr.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=AJVhQF7bdfg7KTPK-5G8yRJl92-22zEZwSeRhcN1.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
   },
   {
    "date": "Mon Mar 30",
@@ -22,7 +22,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=tUVvSPtnmprYQL0sMh3owZco6fTeHSbdU-D1zspr.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=AJVhQF7bdfg7KTPK-5G8yRJl92-22zEZwSeRhcN1.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
   },
   {
    "date": "Sun Mar 29",
@@ -33,7 +33,27 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=tUVvSPtnmprYQL0sMh3owZco6fTeHSbdU-D1zspr.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=AJVhQF7bdfg7KTPK-5G8yRJl92-22zEZwSeRhcN1.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
+  },
+  {
+   "date": "2025-10-28",
+   "region": "국내",
+   "title": "온실가스 배출권의 할당 및 거래에 관한 법률 — 일부개정 (공포 20251028, 시행 20260429)",
+   "summary": "",
+   "tag": [
+    "법령"
+   ],
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=279295&type=HTML"
+  },
+  {
+   "date": "2026-04-28",
+   "region": "국내",
+   "title": "온실가스 배출권의 할당 및 거래에 관한 법률 시행령 — 일부개정 (공포 20260428, 시행 20260429)",
+   "summary": "",
+   "tag": [
+    "법령"
+   ],
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285737&type=HTML"
   },
   {
    "date": "2026-09-11",
