@@ -14,6 +14,7 @@ import datetime
 import xml.etree.ElementTree as ET
 import urllib.request
 import urllib.error
+import urllib.parse
 
 OUT_FILE = "intel_daily.json"
 TIMEOUT = 15
@@ -43,9 +44,7 @@ SOURCES = [
         "name": "국가법령정보센터 - 배출권거래법",
         "region": "국내",
         "tag": ["법령"],
-        "candidates": [
-            "https://www.law.go.kr/LSW/lsRSS.do?lsId=011612",
-        ],
+        "law_api": True,   # RSS 없음 -> law.go.kr Open API(OC=test 게스트키)로 수집
     },
     {
         "name": "KRX 배출권시장 시장동향",
@@ -124,6 +123,8 @@ def parse_rss(xml_bytes, limit=5):
 def normalize_date(raw):
     if not raw:
         return "2026"
+    if re.fullmatch(r"\d{8}", raw):
+        return f"{raw[:4]}-{raw[4:6]}-{raw[6:]}"
     for fmt in ("%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z", "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%d"):
         try:
             return datetime.datetime.strptime(raw[:len(fmt) + 5], fmt).strftime("%Y-%m-%d")
@@ -135,7 +136,53 @@ def normalize_date(raw):
     return raw[:10] if len(raw) >= 10 else "2026"
 
 
+LAW_API = "https://www.law.go.kr/DRF/lawSearch.do?OC=test&target=law&query={q}&type=JSON"
+
+
+def collect_law_api(src, query="배출권거래법", limit=3):
+    """국가법령정보센터 Open API (게스트키 OC=test, 무료/무등록). RSS가 없어 API로 대체."""
+    url = LAW_API.format(q=urllib.parse.quote(query))
+    try:
+        status, body = fetch(url)
+    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
+        print(f"  [FAIL] {url} -> {e}")
+        return None
+    if status != 200:
+        print(f"  [SKIP] {url} -> HTTP {status}")
+        return None
+    try:
+        data = json.loads(body)
+        laws = data.get("LawSearch", {}).get("law", [])
+        if isinstance(laws, dict):
+            laws = [laws]
+    except Exception as e:
+        print(f"  [SKIP] {url} -> JSON parse error ({e})")
+        return None
+    if not laws:
+        print(f"  [SKIP] {url} -> 0 results")
+        return None
+    print(f"  [OK] law.go.kr API -> {len(laws)} laws")
+    out = []
+    for law in laws[:limit]:
+        name = law.get("법령명한글", "").strip()
+        promul = law.get("공포일자", "")
+        effective = law.get("시행일자", "")
+        revision = law.get("제개정구분명", "")
+        mst = law.get("법령일련번호", "")
+        out.append({
+            "date": normalize_date(promul) if promul else "2026",
+            "region": src["region"],
+            "title": f"{name} — {revision} (공포 {promul}, 시행 {effective})",
+            "summary": "",
+            "tag": src["tag"],
+            "url": f"https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST={mst}&type=HTML" if mst else "https://www.law.go.kr",
+        })
+    return out
+
+
 def collect_source(src):
+    if src.get("law_api"):
+        return collect_law_api(src)
     for url in src["candidates"]:
         try:
             status, body = fetch(url)
@@ -172,6 +219,9 @@ def collect_source(src):
 def diag():
     for src in SOURCES:
         print(f"== {src['name']} ==")
+        if src.get("law_api"):
+            print(f"  (law.go.kr API) {LAW_API.format(q='배출권거래법')}")
+            continue
         for url in src["candidates"]:
             try:
                 status, body = fetch(url)
