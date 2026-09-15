@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14",
+ "updated": "2026-09-15",
  "source": "collected",
  "items": [
   {
@@ -11,7 +11,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=5mg3MdWnyv23-53UZaekg1loSAPi_SVj0t65IISb.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=DAWQerYa1hNOVfst0SJlK7krUJCFNEH1A_Kaz-tY.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
   },
   {
    "date": "Mon Mar 30",
@@ -22,7 +22,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=5mg3MdWnyv23-53UZaekg1loSAPi_SVj0t65IISb.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=DAWQerYa1hNOVfst0SJlK7krUJCFNEH1A_Kaz-tY.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
   },
   {
    "date": "Sun Mar 29",
@@ -33,7 +33,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=5mg3MdWnyv23-53UZaekg1loSAPi_SVj0t65IISb.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=DAWQerYa1hNOVfst0SJlK7krUJCFNEH1A_Kaz-tY.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
   },
   {
    "date": "2025-10-28",
@@ -56,37 +56,37 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285737&type=HTML"
   },
   {
-   "date": "2026-09-14",
+   "date": "2026-09-15",
    "region": "국내",
-   "title": "【오늘의 국회일정】 2026년 9월 14일",
+   "title": "【오늘의 국회일정】 2026년 9월 15일",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226256"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226348"
+  },
+  {
+   "date": "2026-09-15",
+   "region": "국내",
+   "title": "【오늘의 법조】 2026년 9월 15일",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226336"
   },
   {
    "date": "2026-09-14",
    "region": "국내",
-   "title": "【오늘의 법조】 2026년 9월 14일",
+   "title": "김성수 대법관 후보 “대법원 구성 신속히”… 재제청 논란엔 즉답 피해",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226255"
-  },
-  {
-   "date": "2026-09-14",
-   "region": "국내",
-   "title": "[판결] 법원 “해군호텔 예식장 위탁계약, 중대 위법행위 없다면 즉시해지 못해”",
-   "summary": "",
-   "tag": [
-    "법률",
-    "판례"
-   ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226207"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226350"
   },
   {
    "date": "2026-09-09",
