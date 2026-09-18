@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17",
+ "updated": "2026-09-18",
  "source": "collected",
  "items": [
   {
@@ -11,7 +11,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=DAWQerYa1hNOVfst0SJlK7krUJCFNEH1A_Kaz-tY.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=k2uBaazCCnlLog74s2zYWVf2asBpR3fQF3LwwZsO.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
   },
   {
    "date": "Mon Mar 30",
@@ -22,7 +22,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=DAWQerYa1hNOVfst0SJlK7krUJCFNEH1A_Kaz-tY.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=k2uBaazCCnlLog74s2zYWVf2asBpR3fQF3LwwZsO.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
   },
   {
    "date": "Sun Mar 29",
@@ -33,7 +33,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=DAWQerYa1hNOVfst0SJlK7krUJCFNEH1A_Kaz-tY.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=k2uBaazCCnlLog74s2zYWVf2asBpR3fQF3LwwZsO.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
   },
   {
    "date": "2025-10-28",
@@ -56,37 +56,49 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285737&type=HTML"
   },
   {
-   "date": "2026-09-17",
+   "date": "2026-09-18",
    "region": "국내",
-   "title": "【오늘의 국회일정】 2026년 9월 17일",
+   "title": "【오늘의 국회일정】 2026년 9월 18일",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226472"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226566"
+  },
+  {
+   "date": "2026-09-18",
+   "region": "국내",
+   "title": "【오늘의 법조】 2026년 9월 18일",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226553"
   },
   {
    "date": "2026-09-17",
    "region": "국내",
-   "title": "【오늘의 법조】 2026년 9월 17일",
+   "title": "한광수(40기) 딜로이트 안진 회계법인 변호사 부친상",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226470"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226564"
   },
   {
-   "date": "2026-09-16",
-   "region": "국내",
-   "title": "[단독] 결혼중개업체 불법행위 관리·감독 강화…법 개정 추진",
+   "date": "2026-09-17",
+   "region": "해외",
+   "title": "Daily News 17 / 09 / 2026",
    "summary": "",
    "tag": [
-    "법률",
-    "판례"
+    "EU-ETS",
+    "EUA",
+    "CBAM"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226469"
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1894"
   },
   {
    "date": "2026-09-09",
@@ -111,18 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1802"
-  },
-  {
-   "date": "2026-08-31",
-   "region": "해외",
-   "title": "Daily News 31 / 08 / 2026",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1775"
   }
  ]
 }
