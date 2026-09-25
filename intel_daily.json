@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24",
+ "updated": "2026-09-25",
  "source": "collected",
  "items": [
   {
@@ -11,7 +11,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=1xsDnU2wRBCGwTVLzEqZDQ7bJKZJn9URmrv9miE9.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=_dGi9ddQXZgdlQoIZcCzeG6fAnV1Uekh_hICtV5o.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
   },
   {
    "date": "Mon Mar 30",
@@ -22,7 +22,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=1xsDnU2wRBCGwTVLzEqZDQ7bJKZJn9URmrv9miE9.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=_dGi9ddQXZgdlQoIZcCzeG6fAnV1Uekh_hICtV5o.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
   },
   {
    "date": "Sun Mar 29",
@@ -33,7 +33,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=1xsDnU2wRBCGwTVLzEqZDQ7bJKZJn9URmrv9miE9.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=_dGi9ddQXZgdlQoIZcCzeG6fAnV1Uekh_hICtV5o.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
   },
   {
    "date": "2025-10-28",
@@ -56,6 +56,28 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=285737&type=HTML"
   },
   {
+   "date": "2026-09-25",
+   "region": "국내",
+   "title": "[판결] “돈 사용처 설명 못 하더라도 개인 유용 증거 없다면 횡령 아냐”",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226733"
+  },
+  {
+   "date": "2026-09-24",
+   "region": "국내",
+   "title": "김용근 주식회사 효성 지원본부장(전무) 모친상",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226895"
+  },
+  {
    "date": "2026-09-24",
    "region": "국내",
    "title": "[판결] 주차 시비 중 후진한 車에 상대방 다쳐… 대법 “특수상해 아냐”",
@@ -67,26 +89,16 @@
    "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226781"
   },
   {
-   "date": "2026-09-23",
-   "region": "국내",
-   "title": "법원, 쿠팡 공정위 현장조사 집행정지 신청 기각",
+   "date": "2026-09-24",
+   "region": "해외",
+   "title": "Daily News 24 / 09 / 2026",
    "summary": "",
    "tag": [
-    "법률",
-    "판례"
+    "EU-ETS",
+    "EUA",
+    "CBAM"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226876"
-  },
-  {
-   "date": "2026-09-23",
-   "region": "국내",
-   "title": "포스코 금속노조 교섭단위 분리 또 제동… 법원, 집행정지 인용",
-   "summary": "",
-   "tag": [
-    "법률",
-    "판례"
-   ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226871"
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1966"
   },
   {
    "date": "2026-09-23",
@@ -111,18 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1894"
-  },
-  {
-   "date": "2026-09-09",
-   "region": "해외",
-   "title": "A new strategic vision for the outermost regions, strengthening the EU's global reach",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1827"
   }
  ]
 }
