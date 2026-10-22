@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "source": "collected",
  "items": [
   {
@@ -11,7 +11,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=0fEk3z9evZGkfG4673rfXB3HC-kAzFmj8yssmwJQ.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=bPtgHw4OGr7UhSREU8gDv2CJNTv3d7gDesS7mkZr.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
   },
   {
    "date": "Mon Mar 30",
@@ -22,7 +22,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=0fEk3z9evZGkfG4673rfXB3HC-kAzFmj8yssmwJQ.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=bPtgHw4OGr7UhSREU8gDv2CJNTv3d7gDesS7mkZr.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
   },
   {
    "date": "Sun Mar 29",
@@ -33,7 +33,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=0fEk3z9evZGkfG4673rfXB3HC-kAzFmj8yssmwJQ.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=bPtgHw4OGr7UhSREU8gDv2CJNTv3d7gDesS7mkZr.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
   },
   {
    "date": "2025-10-28",
@@ -56,37 +56,49 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289967&type=HTML"
   },
   {
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "region": "국내",
-   "title": "【오늘의 국회일정】 2026년 10월 21일",
+   "title": "【오늘의 국회일정】 2026년 10월 22일",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228111"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228149"
   },
   {
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "region": "국내",
-   "title": "【오늘의 법조】 2026년 10월 21일",
+   "title": "【오늘의 법조】 2026년 10월 22일",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228048"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228133"
   },
   {
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "region": "국내",
-   "title": "아세아여성법학회 · 전남대학교 법학연구소, 10월 학술대회",
+   "title": "(사)한국사내변호사회 · 법무법인(유) 원, 공동주최 세미나",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227996"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228123"
+  },
+  {
+   "date": "2026-10-20",
+   "region": "해외",
+   "title": "Commission welcomes political agreement on rules enhancing stability and long-term resilience of EU carbon market",
+   "summary": "",
+   "tag": [
+    "EU-ETS",
+    "EUA",
+    "CBAM"
+   ],
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2206"
   },
   {
    "date": "2026-10-20",
@@ -111,18 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2195"
-  },
-  {
-   "date": "2026-10-18",
-   "region": "해외",
-   "title": "Commission invests €3.4 billion in net-zero technology projects",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2187"
   }
  ]
 }
