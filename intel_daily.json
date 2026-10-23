@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "source": "collected",
  "items": [
   {
@@ -11,7 +11,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=bPtgHw4OGr7UhSREU8gDv2CJNTv3d7gDesS7mkZr.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=qlNNzp8JyH9-QGwIX_9P-sasC4b4qvOiDCxgMI3W.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
   },
   {
    "date": "Mon Mar 30",
@@ -22,7 +22,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=bPtgHw4OGr7UhSREU8gDv2CJNTv3d7gDesS7mkZr.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=qlNNzp8JyH9-QGwIX_9P-sasC4b4qvOiDCxgMI3W.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
   },
   {
    "date": "Sun Mar 29",
@@ -33,7 +33,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=bPtgHw4OGr7UhSREU8gDv2CJNTv3d7gDesS7mkZr.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=qlNNzp8JyH9-QGwIX_9P-sasC4b4qvOiDCxgMI3W.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
   },
   {
    "date": "2025-10-28",
@@ -56,37 +56,49 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289967&type=HTML"
   },
   {
-   "date": "2026-10-22",
+   "date": "2026-10-23",
    "region": "국내",
-   "title": "【오늘의 국회일정】 2026년 10월 22일",
+   "title": "【오늘의 국회일정】 2026년 10월 23일",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228149"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228230"
+  },
+  {
+   "date": "2026-10-23",
+   "region": "국내",
+   "title": "【오늘의 법조】 2026년 10월 23일",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228165"
+  },
+  {
+   "date": "2026-10-23",
+   "region": "국내",
+   "title": "[판결] “독감 백신 부작용 보상금 더해 치료비도 줘야”",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228160"
   },
   {
    "date": "2026-10-22",
-   "region": "국내",
-   "title": "【오늘의 법조】 2026년 10월 22일",
+   "region": "해외",
+   "title": "Daily News 22 / 10 / 2026",
    "summary": "",
    "tag": [
-    "법률",
-    "판례"
+    "EU-ETS",
+    "EUA",
+    "CBAM"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228133"
-  },
-  {
-   "date": "2026-10-22",
-   "region": "국내",
-   "title": "(사)한국사내변호사회 · 법무법인(유) 원, 공동주최 세미나",
-   "summary": "",
-   "tag": [
-    "법률",
-    "판례"
-   ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228123"
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2236"
   },
   {
    "date": "2026-10-20",
@@ -111,18 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2207"
-  },
-  {
-   "date": "2026-10-19",
-   "region": "해외",
-   "title": "Daily News 19 / 10 / 2026",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2195"
   }
  ]
 }
