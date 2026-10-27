@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "source": "collected",
  "items": [
   {
@@ -11,7 +11,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=VRfLzdprZ73eeUakBacxpzyEj-42wiUYkZKoFe6E.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=9Y03nIkaaC7D2ob0N_j_rSgNNlfaAwPFesbn18XH.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853100"
   },
   {
    "date": "Mon Mar 30",
@@ -22,7 +22,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=VRfLzdprZ73eeUakBacxpzyEj-42wiUYkZKoFe6E.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=9Y03nIkaaC7D2ob0N_j_rSgNNlfaAwPFesbn18XH.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853090"
   },
   {
    "date": "Sun Mar 29",
@@ -33,7 +33,7 @@
     "제도",
     "행정"
    ],
-   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=VRfLzdprZ73eeUakBacxpzyEj-42wiUYkZKoFe6E.mehome2?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
+   "url": "https://mcee.go.kr/home/web/board/read.do;jsessionid=9Y03nIkaaC7D2ob0N_j_rSgNNlfaAwPFesbn18XH.mehome1?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10525&orgCd=&boardMasterId=1&boardId=1853080"
   },
   {
    "date": "2025-10-28",
@@ -56,37 +56,49 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289967&type=HTML"
   },
   {
-   "date": "2026-10-26",
+   "date": "2026-10-27",
    "region": "국내",
-   "title": "【오늘의 법조】 2026년 10월 26일",
+   "title": "【오늘의 국회일정】 2026년 10월 27일",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228284"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228389"
+  },
+  {
+   "date": "2026-10-27",
+   "region": "국내",
+   "title": "【오늘의 법조】 2026년 10월 27일",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228365"
+  },
+  {
+   "date": "2026-10-27",
+   "region": "국내",
+   "title": "[결정] 공무원 60세 정년퇴직해도 연금은 62~65세부터… 헌재 “합헌”",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228307"
   },
   {
    "date": "2026-10-26",
-   "region": "국내",
-   "title": "【오늘의 국회일정】 2026년 10월 26일",
+   "region": "해외",
+   "title": "Daily News 26 / 10 / 2026",
    "summary": "",
    "tag": [
-    "법률",
-    "판례"
+    "EU-ETS",
+    "EUA",
+    "CBAM"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228281"
-  },
-  {
-   "date": "2026-10-26",
-   "region": "국내",
-   "title": "[판결] “비의료인 거든 수술, 보험 청구 못 해”",
-   "summary": "",
-   "tag": [
-    "법률",
-    "판례"
-   ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228163"
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2257"
   },
   {
    "date": "2026-10-22",
@@ -111,18 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2206"
-  },
-  {
-   "date": "2026-10-20",
-   "region": "해외",
-   "title": "Remarks by Commissioner Šefčovič at the European Parliament Plenary debate on the EU-UK Summit: renewed ambition for a closer partnership",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2207"
   }
  ]
 }
