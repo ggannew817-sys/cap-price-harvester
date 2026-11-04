@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "source": "collected",
  "items": [
   {
@@ -56,37 +56,49 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289967&type=HTML"
   },
   {
-   "date": "2026-11-03",
+   "date": "2026-11-04",
    "region": "국내",
-   "title": "대륙아주-린, 합병 작업 완료… 9일 최종 서명",
+   "title": "“사법 독립은 공기와 같다”",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228771"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228835"
+  },
+  {
+   "date": "2026-11-04",
+   "region": "국내",
+   "title": "【오늘의 국회일정】 2026년 11월 4일",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228828"
+  },
+  {
+   "date": "2026-11-04",
+   "region": "국내",
+   "title": "【오늘의 법조】 2026년 11월 4일",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228825"
   },
   {
    "date": "2026-11-03",
-   "region": "국내",
-   "title": "현직 부장판사, 전국법관대표회의 소집 촉구",
+   "region": "해외",
+   "title": "Keynote speech by President von der Leyen at the WinWin Brussels Summit",
    "summary": "",
    "tag": [
-    "법률",
-    "판례"
+    "EU-ETS",
+    "EUA",
+    "CBAM"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228769"
-  },
-  {
-   "date": "2026-11-03",
-   "region": "국내",
-   "title": "【오늘의 국회일정】 2026년 11월 3일",
-   "summary": "",
-   "tag": [
-    "법률",
-    "판례"
-   ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228758"
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2319"
   },
   {
    "date": "2026-10-26",
@@ -111,18 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2236"
-  },
-  {
-   "date": "2026-10-20",
-   "region": "해외",
-   "title": "Commission welcomes political agreement on rules enhancing stability and long-term resilience of EU carbon market",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2206"
   }
  ]
 }
