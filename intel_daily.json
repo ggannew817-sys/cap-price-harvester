@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "source": "collected",
  "items": [
   {
@@ -56,37 +56,61 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289967&type=HTML"
   },
   {
-   "date": "2026-11-09",
+   "date": "2026-11-10",
    "region": "국내",
-   "title": "금융 AI agent의 확산과 법적 쟁점",
+   "title": "[판결] 7~8m 떨어져 피켓 들어도 집회",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229080"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229106"
+  },
+  {
+   "date": "2026-11-10",
+   "region": "국내",
+   "title": "【오늘의 국회일정】 2026년 11월 10일",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229117"
+  },
+  {
+   "date": "2026-11-10",
+   "region": "국내",
+   "title": "【오늘의 법조】 2026년 11월 10일",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229105"
   },
   {
    "date": "2026-11-09",
-   "region": "국내",
-   "title": "「외국환거래법 시행령」 개정안 입법예고 – 가상자산이전업무 신설 및 환전업 규제 강화",
+   "region": "해외",
+   "title": "Daily News 09 / 11 / 2026",
    "summary": "",
    "tag": [
-    "법률",
-    "판례"
+    "EU-ETS",
+    "EUA",
+    "CBAM"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229078"
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2378"
   },
   {
-   "date": "2026-11-09",
-   "region": "국내",
-   "title": "「여신전문금융업감독규정」 개정안 규정변경예고 – 카드사의 PG사 결제리스크 평가 의무화 등",
+   "date": "2026-11-08",
+   "region": "해외",
+   "title": "EU emissions continue to fall as clean energy gains ground",
    "summary": "",
    "tag": [
-    "법률",
-    "판례"
+    "EU-ETS",
+    "EUA",
+    "CBAM"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229077"
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2343"
   },
   {
    "date": "2026-11-03",
@@ -99,30 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2319"
-  },
-  {
-   "date": "2026-10-26",
-   "region": "해외",
-   "title": "Daily News 26 / 10 / 2026",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2257"
-  },
-  {
-   "date": "2026-10-22",
-   "region": "해외",
-   "title": "Daily News 22 / 10 / 2026",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2236"
   }
  ]
 }
