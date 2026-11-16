@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-16",
  "source": "collected",
  "items": [
   {
@@ -56,37 +56,49 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289967&type=HTML"
   },
   {
-   "date": "2026-11-13",
+   "date": "2026-11-16",
    "region": "국내",
-   "title": "【오늘의 국회일정】 2026년 11월 13일",
+   "title": "대법, 한덕수 내란 우두머리 방조 19일 선고… 구속만료 하루 전",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229334"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229463"
+  },
+  {
+   "date": "2026-11-16",
+   "region": "국내",
+   "title": "미국의 대러 제재 강화 및 수출통제 규제 동향",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229468"
+  },
+  {
+   "date": "2026-11-16",
+   "region": "국내",
+   "title": "「금융회사 지배구조 개선방안」 발표",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229460"
   },
   {
    "date": "2026-11-13",
-   "region": "국내",
-   "title": "【오늘의 법조】 2026년 11월 13일",
+   "region": "해외",
+   "title": "Daily News 13 / 11 / 2026",
    "summary": "",
    "tag": [
-    "법률",
-    "판례"
+    "EU-ETS",
+    "EUA",
+    "CBAM"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229323"
-  },
-  {
-   "date": "2026-11-12",
-   "region": "국내",
-   "title": "금호석유화학그룹, “안전환경은 타협 없는 기본 가치”… 지속가능경영 토대 다진다",
-   "summary": "",
-   "tag": [
-    "법률",
-    "판례"
-   ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229332"
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2434"
   },
   {
    "date": "2026-11-09",
@@ -111,18 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2343"
-  },
-  {
-   "date": "2026-11-03",
-   "region": "해외",
-   "title": "Keynote speech by President von der Leyen at the WinWin Brussels Summit",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2319"
   }
  ]
 }
