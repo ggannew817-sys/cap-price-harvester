@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "source": "collected",
  "items": [
   {
@@ -56,37 +56,61 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289967&type=HTML"
   },
   {
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "region": "국내",
-   "title": "네플라, 대한민국 인터넷대상 부총리상 수상",
+   "title": "[단독] “재판받을 기회 달라”… ‘학폭 노쇼’ 유족 재판소원 제기",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229541"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229615"
+  },
+  {
+   "date": "2026-11-18",
+   "region": "국내",
+   "title": "【오늘의 국회일정】 2026년 11월 18일",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229608"
+  },
+  {
+   "date": "2026-11-18",
+   "region": "국내",
+   "title": "【오늘의 법조】 2026년 11월 18일",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229590"
   },
   {
    "date": "2026-11-17",
-   "region": "국내",
-   "title": "대통령 순방중 ‘조작기소 특검법’ 공포안, 국무회의 의결",
+   "region": "해외",
+   "title": "Daily News 17 / 11 / 2026",
    "summary": "",
    "tag": [
-    "법률",
-    "판례"
+    "EU-ETS",
+    "EUA",
+    "CBAM"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229553"
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2471"
   },
   {
-   "date": "2026-11-17",
-   "region": "국내",
-   "title": "[판결] 기소 안 된 도박사이트 수익까지 추징 못 해",
+   "date": "2026-11-16",
+   "region": "해외",
+   "title": "Commission approves amended German State aid schemes for energy-intensive companies",
    "summary": "",
    "tag": [
-    "법률",
-    "판례"
+    "EU-ETS",
+    "EUA",
+    "CBAM"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229525"
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2456"
   },
   {
    "date": "2026-11-16",
@@ -99,30 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2460"
-  },
-  {
-   "date": "2026-11-13",
-   "region": "해외",
-   "title": "Daily News 13 / 11 / 2026",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2434"
-  },
-  {
-   "date": "2026-11-09",
-   "region": "해외",
-   "title": "Daily News 09 / 11 / 2026",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2378"
   }
  ]
 }
