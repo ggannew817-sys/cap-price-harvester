@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "source": "collected",
  "items": [
   {
@@ -56,37 +56,49 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289967&type=HTML"
   },
   {
-   "date": "2026-11-18",
+   "date": "2026-11-19",
    "region": "국내",
-   "title": "[단독] “재판받을 기회 달라”… ‘학폭 노쇼’ 유족 재판소원 제기",
+   "title": "[판결] 56년 전 간첩 숨겨준 사건 재심… 관할 위반으로 다시 열린다",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229615"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229521"
+  },
+  {
+   "date": "2026-11-19",
+   "region": "국내",
+   "title": "공정위, 독과점 사업자의 착취적 남용행위 규율 강화 입법예고",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229679"
+  },
+  {
+   "date": "2026-11-19",
+   "region": "국내",
+   "title": "이재명 대통령, ‘조작기소 특검법’ 재가… 공포 즉시 시행",
+   "summary": "",
+   "tag": [
+    "법률",
+    "판례"
+   ],
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229668"
   },
   {
    "date": "2026-11-18",
-   "region": "국내",
-   "title": "【오늘의 국회일정】 2026년 11월 18일",
+   "region": "해외",
+   "title": "Daily News 18 / 11 / 2026",
    "summary": "",
    "tag": [
-    "법률",
-    "판례"
+    "EU-ETS",
+    "EUA",
+    "CBAM"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229608"
-  },
-  {
-   "date": "2026-11-18",
-   "region": "국내",
-   "title": "【오늘의 법조】 2026년 11월 18일",
-   "summary": "",
-   "tag": [
-    "법률",
-    "판례"
-   ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229590"
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2497"
   },
   {
    "date": "2026-11-17",
@@ -111,18 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2456"
-  },
-  {
-   "date": "2026-11-16",
-   "region": "해외",
-   "title": "Remarks by Commissioner Šefčovič at the EU-UK Parliamentary Partnership Assembly",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2460"
   }
  ]
 }
