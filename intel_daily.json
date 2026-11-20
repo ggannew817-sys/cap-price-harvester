@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "source": "collected",
  "items": [
   {
@@ -56,37 +56,49 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289967&type=HTML"
   },
   {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "region": "국내",
-   "title": "[판결] 56년 전 간첩 숨겨준 사건 재심… 관할 위반으로 다시 열린다",
+   "title": "[판결] ‘시세조종 혐의’ 김범수 카카오 창업자, 항소심도 무죄",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229521"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229800"
   },
   {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "region": "국내",
-   "title": "공정위, 독과점 사업자의 착취적 남용행위 규율 강화 입법예고",
+   "title": "[속보] ‘SM엔터 주가조작’ 혐의 카카오 김범수 2심도 무죄",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229679"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229786"
   },
   {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "region": "국내",
-   "title": "이재명 대통령, ‘조작기소 특검법’ 재가… 공포 즉시 시행",
+   "title": "박보영(16기) 전 대법관 자녀 결혼",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229668"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229779"
+  },
+  {
+   "date": "2026-11-18",
+   "region": "해외",
+   "title": "November infringements package: key decisions",
+   "summary": "",
+   "tag": [
+    "EU-ETS",
+    "EUA",
+    "CBAM"
+   ],
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_2269"
   },
   {
    "date": "2026-11-18",
@@ -111,18 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2471"
-  },
-  {
-   "date": "2026-11-16",
-   "region": "해외",
-   "title": "Commission approves amended German State aid schemes for energy-intensive companies",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2456"
   }
  ]
 }
