@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-23",
  "source": "collected",
  "items": [
   {
@@ -56,37 +56,61 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289967&type=HTML"
   },
   {
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "region": "국내",
-   "title": "[판결] ‘시세조종 혐의’ 김범수 카카오 창업자, 항소심도 무죄",
+   "title": "전임 지방변호사회장 협의회 “정치권, 사법부 독립 존중해야”",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229800"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229887"
   },
   {
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "region": "국내",
-   "title": "[속보] ‘SM엔터 주가조작’ 혐의 카카오 김범수 2심도 무죄",
+   "title": "바른·인도 로펌 ELP, 인도 진출 기업 ‘규제·컴플라이언스 대응 전략’ 논의",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229786"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229894"
   },
   {
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "region": "국내",
-   "title": "박보영(16기) 전 대법관 자녀 결혼",
+   "title": "서울중수청 ‘1호 기업사건’ 명륜당 회장 추가 압색영장 기각",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229779"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229888"
+  },
+  {
+   "date": "2026-11-19",
+   "region": "해외",
+   "title": "Joint Statement of the European Union and the United Kingdom Summit, 20 November 2026",
+   "summary": "",
+   "tag": [
+    "EU-ETS",
+    "EUA",
+    "CBAM"
+   ],
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2512"
+  },
+  {
+   "date": "2026-11-19",
+   "region": "해외",
+   "title": "Questions and answers on the outcomes of the 2026 EU-UK Summit",
+   "summary": "",
+   "tag": [
+    "EU-ETS",
+    "EUA",
+    "CBAM"
+   ],
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2511"
   },
   {
    "date": "2026-11-18",
@@ -99,30 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_2269"
-  },
-  {
-   "date": "2026-11-18",
-   "region": "해외",
-   "title": "Daily News 18 / 11 / 2026",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2497"
-  },
-  {
-   "date": "2026-11-17",
-   "region": "해외",
-   "title": "Daily News 17 / 11 / 2026",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2471"
   }
  ]
 }
