@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "source": "collected",
  "items": [
   {
@@ -56,37 +56,49 @@
    "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=law&MST=289967&type=HTML"
   },
   {
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "region": "국내",
-   "title": "전임 지방변호사회장 협의회 “정치권, 사법부 독립 존중해야”",
+   "title": "의정부지법 전임회생위원",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229887"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229978"
   },
   {
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "region": "국내",
-   "title": "바른·인도 로펌 ELP, 인도 진출 기업 ‘규제·컴플라이언스 대응 전략’ 논의",
+   "title": "광장, 12월 4일 정기주총 실무 세미나 개최",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229894"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229951"
   },
   {
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "region": "국내",
-   "title": "서울중수청 ‘1호 기업사건’ 명륜당 회장 추가 압색영장 기각",
+   "title": "최경진 가천대 교수, 《유리시민: 인공지능은 프라이버시와 권력의 규칙을 어떻게 다시 쓰는가》 출간",
    "summary": "",
    "tag": [
     "법률",
     "판례"
    ],
-   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229888"
+   "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229956"
+  },
+  {
+   "date": "2026-11-20",
+   "region": "해외",
+   "title": "Speech by Executive Vice-President Teresa Ribera at Trilateral Commission Europe “Building Economic and Hard Power in a Dangerous World”  The Energy Trilemma: Industrial Sovereignty",
+   "summary": "",
+   "tag": [
+    "EU-ETS",
+    "EUA",
+    "CBAM"
+   ],
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2565"
   },
   {
    "date": "2026-11-19",
@@ -111,18 +123,6 @@
     "CBAM"
    ],
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2511"
-  },
-  {
-   "date": "2026-11-18",
-   "region": "해외",
-   "title": "November infringements package: key decisions",
-   "summary": "",
-   "tag": [
-    "EU-ETS",
-    "EUA",
-    "CBAM"
-   ],
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_2269"
   }
  ]
 }
